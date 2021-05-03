@@ -1,0 +1,15 @@
+/Users/johnbolton/Revature/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/johnbolton/Revature/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/johnbolton/Revature/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/johnbolton/Revature/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/johnbolton/Revature/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/Users/johnbolton/Revature/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/johnbolton/Revature/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/Users/johnbolton/Revature/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnbolton/Revature/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/johnbolton/Revature/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/johnbolton/Revature/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/johnbolton/Revature/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/johnbolton/Revature/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/johnbolton/Revature/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/johnbolton/Revature/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
