@@ -1,0 +1,1 @@
+insert into associates (associateName, associateLocale, revaPoints) values ('person1', 'GA', 50), ('person2', 'MN', 50), ('person3', 'FL', 0), ('person4', 'WA', 197), ('person5', 'AZ', 50);
