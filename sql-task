@@ -1,8 +1,10 @@
+#1
 insert into associates (associateName, associateLocale, revaPoints) values ('person1', 'GA', 50), ('person2', 'MN', 50), ('person3', 'FL', 0), ('person4', 'WA', 197), ('person5', 'AZ', 50);
 
-
+#2
 select associateName from associates WHERE associateLocale = 'WA';
 
+#3 
 SELECT COUNT(*)
 FROM associateLocale;
 
@@ -13,14 +15,17 @@ ORDER BY COUNT DESC;
 SELECT COUNT(*) FROM associateLocale
 ORDER BY COUNT ASC;
 
+#4
+#4a
 SELECT
 
+#4b
 INNER JOIN Customers ON primary key=primary key;
 SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
 FROM asscoiates
 WHERE trainerName is NOT NULL;
 
-
+#4c
 INNER JOIN Customers ON primary key=primary key;
 SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
 FROM asscoiates
