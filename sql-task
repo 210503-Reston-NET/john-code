@@ -5,3 +5,10 @@ select associateName from associates WHERE associateLocale = 'WA';
 
 SELECT COUNT(*)
 FROM associateLocale;
+
+SELECT COUNT(*) FROM associateLocale
+ORDER BY COUNT DESC;
+
+
+SELECT COUNT(*) FROM associateLocale
+ORDER BY COUNT AESC;
