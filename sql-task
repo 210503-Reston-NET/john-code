@@ -17,16 +17,18 @@ ORDER BY COUNT ASC;
 
 #4
 #4a
-SELECT
+INNER JOIN batch ON primary key=primary key;
+SELECT COUNT( * ) 
+FROM agents HAVING COUNT(*)>3;
 
 #4b
 INNER JOIN Customers ON primary key=primary key;
-SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
+SELECT associateName
 FROM asscoiates
 WHERE trainerName is NOT NULL;
 
 #4c
 INNER JOIN Customers ON primary key=primary key;
-SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
+SELECT associateName
 FROM asscoiates
 WHERE trainerName is NULL;
