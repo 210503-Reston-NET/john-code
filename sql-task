@@ -17,18 +17,18 @@ ORDER BY COUNT ASC;
 
 #4
 #4a
-INNER JOIN batch ON primary key=primary key;
+INNER JOIN batch ON primary key=primary key
 FROM trainers
 WHERE associateID is NULL;
 
 #4b
-INNER JOIN Customers ON primary key=primary key;
+INNER JOIN Customers ON primary key=primary key
 SELECT associateName
 FROM asscoiates
 WHERE trainerName is NOT NULL;
 
 #4c
-INNER JOIN Customers ON primary key=primary key;
+INNER JOIN Customers ON primary key=primary key
 SELECT associateName
 FROM asscoiates
 WHERE trainerName is NULL;
