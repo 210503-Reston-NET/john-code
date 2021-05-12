@@ -15,7 +15,10 @@ ORDER BY COUNT ASC;
 
 SELECT
 
-SELECT
+INNER JOIN Customers ON primary key=primary key;
+SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
+FROM asscoiates
+WHERE trainerName is NOT NULL;
 
 
 INNER JOIN Customers ON primary key=primary key;
